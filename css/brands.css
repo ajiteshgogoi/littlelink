@@ -35,6 +35,7 @@
 .button.button-default {
 	--button-text:#ffffff;
 	--button-background:#2457F5;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Blog */
@@ -88,6 +89,7 @@
 .button-apple-podcasts-alt {
 	--button-text:#ffffff;
 	--button-background:#B150E2;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Bandcamp */
@@ -236,7 +238,7 @@
 .button-goodreads {
 	--button-text:#333333;
 	--button-background:#f3f1e6;
-	--button-border:1px solid #212121;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Google Black */
@@ -271,6 +273,7 @@
 .button-instagram {
 	--button-text:#ffffff;
 	background-image:linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Kick */
@@ -329,6 +332,7 @@
 .button-linked {
 	--button-text:#ffffff;
 	--button-background:#2867b2;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Mailchimp */
@@ -382,6 +386,7 @@
 .button-patreon {
 	--button-text:#ffffff;
 	--button-background:#f96854;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* PayPal */
@@ -453,6 +458,7 @@
 .button-spotify {
 	--button-text:#191414;
 	--button-background:#1db954;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Spotify Alt */
@@ -504,6 +510,7 @@
 .button-telegram {
 	--button-text:#ffffff;
 	--button-background:#3faee8;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Threads */

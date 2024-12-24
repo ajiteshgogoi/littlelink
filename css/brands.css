@@ -35,7 +35,13 @@
 .button.button-default {
 	--button-text:#ffffff;
 	--button-background:#2457F5;
-	--button-border:1px solid #ffffff;
+}
+
+/* Blog */
+.button.button-blog {
+	--button-text:#ffffff;
+	--button-background:#440000;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Amazon */
@@ -375,8 +381,7 @@
 /* Patreon */
 .button-patreon {
 	--button-text:#ffffff;
-	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
+	--button-background:#f96854;
 }
 
 /* PayPal */

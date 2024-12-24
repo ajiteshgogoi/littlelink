@@ -78,7 +78,7 @@
   h1 {
 	margin:0 0 0.5rem 0;
 	font-size:3rem;         		/* 48px */
-    font-weight:800;
+    font-weight:200;
 	line-height:1;
 	letter-spacing:0;
 	word-wrap:break-word;
@@ -127,7 +127,7 @@
 h1 {
 	margin:0 0 var(--spacing-m) 0;
 	font-size:var(--scale-5);           /* ~49px */
-  	font-weight:800;
+  	font-weight:700;
 	line-height:1.1;
 	letter-spacing:-0.02em;
 	word-wrap:break-word;
@@ -194,7 +194,7 @@ a:hover {
  	min-height:3rem;                /* 48px */
   	padding:0.75rem 1rem;         	/* 12px ; 16px */
   	font-size:1.125rem;           	/* 18px */
-  	font-weight:700;
+  	font-weight:600;
 	text-decoration:none;
 	white-space:normal;
   	background-color:var(--button-background,transparent);

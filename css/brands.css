@@ -34,14 +34,14 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Blog */
 .button.button-blog {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -81,14 +81,14 @@
 /* Apple Podcasts */
 .button-apple-podcasts {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Apple Podcasts Alt */
 .button-apple-podcasts-alt {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -237,7 +237,7 @@
 /* Goodreads */
 .button-goodreads {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -272,7 +272,7 @@
 /* Instagram */
 .button-instagram {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -331,7 +331,7 @@
 /* LinkedIn */
 .button-linked {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -385,7 +385,7 @@
 /* Patreon */
 .button-patreon {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -457,7 +457,7 @@
 /* Spotify */
 .button-spotify {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -509,14 +509,14 @@
 /* Telegram */
 .button-telegram {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
 /* Threads */
 .button-threads {
 	--button-text:#FFFFFF;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -600,7 +600,7 @@
 /* YouTube */
 .button-yt {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 

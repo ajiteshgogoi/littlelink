@@ -87,7 +87,7 @@
 /* Apple Podcasts Alt */
 .button-apple-podcasts-alt {
 	--button-text:#ffffff;
-	background-image:linear-gradient(to bottom,#F452FF,#832BC1);
+	--button-background:#B150E2;
 }
 
 /* Bandcamp */

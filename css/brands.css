@@ -108,7 +108,8 @@
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
-	--button-background:#1185FE;
+	--button-background:#121212;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Bluesky Alt */

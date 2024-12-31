@@ -219,7 +219,7 @@
 /* GitHub */
 .button-github {
 	--button-text:#ffffff;
-	--button-background:#000000;
+	--button-background:#121212;
 	--button-border:1px solid #FFFFFF;
 }
 
@@ -362,6 +362,14 @@
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
+
+/* Monkeytype */
+.button-monkeytype {
+	--button-text:#ffffff;
+	--button-background:#121212;
+	--button-border:1px solid #FFFFFF;
+}
+
 
 /* Notion */
 .button-notion {

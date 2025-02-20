@@ -542,6 +542,14 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* TouchBase */
+.button-touchbase {
+	--button-text:#121212;
+	--button-background:#ffffff;
+	--button-border:1px solid #121212;
+}
+
+
 /* Trello */
 .button-trello {
 	--button-text:#ffffff;
